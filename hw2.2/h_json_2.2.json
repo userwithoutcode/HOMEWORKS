@@ -1,0 +1,127 @@
+{
+  "ОМЛЕТ": [
+    {
+      "ingridient_name": "Яйца",
+      "quantity": 2,
+      "measure": "шт"
+    },
+    {
+      "ingridient_name": "Молоко",
+      "quantity": 50,
+      "measure": "г"
+    },
+    {
+      "ingridient_name": "Помидоры",
+      "quantity": 1,
+      "measure": "шт"
+    }
+  ],
+  "ВИНЕГРЕТ": [
+    {
+      "ingridient_name": "Свекла",
+      "quantity": 100,
+      "measure": "г"
+    },
+    {
+      "ingridient_name": "Морковь",
+      "quantity": 50,
+      "measure": "г"
+    },
+    {
+      "ingridient_name": "Картошка",
+      "quantity": 100,
+      "measure": "г"
+    },
+    {
+      "ingridient_name": "Огурец соленый",
+      "quantity": 1,
+      "measure": "шт"
+    },
+    {
+      "ingridient_name": "Луковица",
+      "quantity": 1,
+      "measure": "шт"
+    },
+    {
+      "ingridient_name": "Зеленый горошек",
+      "quantity": 1,
+      "measure": "б"
+    }
+  ],
+  "ГРЕЧЕСКИЙ САЛАТ": [
+    {
+      "ingridient_name": "Перец болгарский",
+      "quantity": 1,
+      "measure": "шт"
+    },
+    {
+      "ingridient_name": "Огурец",
+      "quantity": 1,
+      "measure": "шт"
+    },
+    {
+      "ingridient_name": "Помидоры",
+      "quantity": 1,
+      "measure": "шт"
+    },
+    {
+      "ingridient_name": "Лук репчатый",
+      "quantity": 1,
+      "measure": "шт"
+    },
+    {
+      "ingridient_name": "Оливки",
+      "quantity": 1,
+      "measure": "б"
+    },
+    {
+      "ingridient_name": "Брынза",
+      "quantity": 100,
+      "measure": "г"
+    }
+  ],
+  "ТОМАТНЫЙ СУП": [
+    {
+      "ingridient_name": "Помидоры",
+      "quantity": 3,
+      "measure": "шт"
+    },
+    {
+      "ingridient_name": "Перец",
+      "quantity": 1,
+      "measure": "шт"
+    },
+    {
+      "ingridient_name": "Лук репчатый",
+      "quantity": 1,
+      "measure": "шт"
+    },
+    {
+      "ingridient_name": "Базилик",
+      "quantity": 50,
+      "measure": "г"
+    }
+  ],
+  "КОТЛЕТЫ": [
+    {
+      "ingridient_name": "Говядина",
+      "quantity": 100,
+      "measure": "г"
+    },
+    {
+      "ingridient_name": "Свинина",
+      "quantity": 100,
+      "measure": "г"
+    },
+    {
+      "ingridient_name": "Лук репчатый",
+      "quantity": 1,
+      "measure": "шт"
+    },
+    {
+      "ingridient_name": "Хлеб",
+      "quantity": 50,
+      "measure": "г"
+    }
+  ]
+}
